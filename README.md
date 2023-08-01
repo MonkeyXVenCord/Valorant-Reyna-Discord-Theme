@@ -31,7 +31,7 @@ By Using Apps Such as Better Discord or Vencord you can install custom themes to
 ### FAQ
 
 Q: Do You Accept Custom Requests
-A: Yes I do, but they cost $5.
+A: Yes I do, but they cost $10.
 
 Q: Where Do I Submit Requests
 A: Just Shoot Me an Email
