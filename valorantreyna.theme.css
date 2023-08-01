@@ -1,0 +1,65 @@
+/**
+ * @name Valorant Reyna
+ * @author Vanity
+ * @version 1.0
+ * @description The Empress
+ * @source https://github.com/MonkeyXVenCord/Valorant-Reyna-Discord-Theme
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://images.wallpapersden.com/image/download/reyna-cool-fanart-valorant_bGhmZ2aUmZqaraWkpJRqZmdlrWdtbWU.jpg');
+  --background-image-blur: 6px;
+  --background-image-size: contain;
+  --background-image-position: center;
+  --popout-image: url('https://wallpapercave.com/wp/wp6162914.png');
+  --popout-image-blur: 0px;
+  --popout-image-size: 200%;
+  --popout-image-position: center;
+  --overlay-image: url('https://wallpapercave.com/wp/wp6212351.jpg');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: 350%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/aQVIMsD.jpg');
+  --home-button-size: 150%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.64;
+  --left-brightness: 1;
+  --middle-brightness: 0.48;
+  --right-brightness: 0.18;
+  --overlay-brightness: 0.75;
+  --gradient-primary: 181,13,210;
+  --gradient-secondary: 240,22,250;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgb(234,12,191,1);
+  --gradient-direction: 360deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0.08;
+  --font: VALORANT Regular;
+  --window-padding: 0px;
+  --window-roundness: 7px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
